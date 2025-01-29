@@ -59,7 +59,6 @@
     "vaul": "^0.9.6",
     "zod": "^3.24.1",
     "tailwindcss": "latest",
-    "@aceternityui/react": "latest",
     "axios": "latest",
     "framer-motion": "latest"
   },
